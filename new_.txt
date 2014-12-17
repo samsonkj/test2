@@ -1,0 +1,4 @@
+aws pipeline help
+maven package
+maven clean install
+mvn clean install assembly:single
