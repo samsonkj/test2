@@ -1,3 +1,4 @@
+top check
 aws pipeline help
 maven package
 maven clean install
